@@ -1,4 +1,4 @@
-#IMG2PBR
+# IMG2PBR
 Create PBR images for Microsoft Flight Simulator by merging AOA,Roughness and Metallic into a single image!
 
 ![alt text](https://i.ibb.co/r2F2M9Y/1.png)
