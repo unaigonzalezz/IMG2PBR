@@ -3,7 +3,7 @@ Create PBR images for Microsoft Flight Simulator by merging AOA,Roughness and Me
 
 ![alt text](https://i.ibb.co/r2F2M9Y/1.png)
 
-##Prerrequisites
+## Prerrequisites
 
 For editing the file you will need Python 3.11, Colorama module and Pillow:
 
