@@ -19,6 +19,8 @@ Errors are expected to appear, the utility is on a early stage and I will contin
 
 The utility don't manage the exceptions by the moment.
 
+If you have strange numbers on the headline of the utility, you need to install Python, otherwise you won't see the colours.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
