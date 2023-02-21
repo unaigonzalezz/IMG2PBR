@@ -10,7 +10,7 @@ For editing the file you will need Python 3.11, Colorama module and Pillow:
 `pip install Pillow`  
 `pip install Colorama` 
 
-##DOWNLOAD
+## DOWNLOAD
 Grab the latest release on: https://github.com/unaigonzalezz/IMG2PBR/releases/tag/Release
 
 ##KNOWN ISSUES
