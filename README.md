@@ -1,8 +1,14 @@
 # IMG2PBR
 Create PBR images for Microsoft Flight Simulator by merging AOA,Roughness and Metallic into a single image!
 
-![alt text](https://i.ibb.co/r2F2M9Y/1.png)
+![alt text](https://i.ibb.co/BwF1zH8/1.png)
 
+## Use
+Enter the names of your 3 or 2 images to the utility and... Magic!
+
+Example: Concrete01_AO.png Concrete01_RG.png Concrete01_MT.png
+
+Remind that you can leave BLUE(Metallic) empty and it will be fully black.
 ## Prerrequisites
 
 For editing the file you will need Python 3.11, Colorama module and Pillow:
@@ -16,8 +22,6 @@ Grab the latest release on: https://github.com/unaigonzalezz/IMG2PBR/releases/ta
 ## Known issues
 
 Errors are expected to appear, the utility is on a early stage and I will continue with the development.
-
-The utility don't manage the exceptions by the moment.
 
 If you have strange numbers on the headline of the utility, you need to install Python, otherwise you won't see the colours.
 
